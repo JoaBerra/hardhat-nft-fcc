@@ -14,7 +14,7 @@
 <img src="./images/dynamicNft/frown.svg" width="225" alt="NFT Frown">
 <img src="./images/randomNft/st-bernard.png" width="225" alt="NFT St.Bernard">
 </p>
-<br/>
+<br/> 
 
 We go through creating 3 different kinds of NFTs.
 
